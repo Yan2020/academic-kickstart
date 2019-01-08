@@ -64,11 +64,12 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "yan.zan@geirina.net"
-  address = ""
+  address = "250 W Tasman Dr, suite 100, San Jose, 95134"
   office_hours = """
+  Mon.-Fri. 10:00am-18:00pm Or email to make an appointment
   """
   phone = "408 507 2126"
-  skype = "lemon.zan"
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -96,8 +97,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 0
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = ""
+  longitude = ""
   zoom = 15
 
   # SITE SETUP
