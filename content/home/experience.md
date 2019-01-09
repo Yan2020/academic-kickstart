@@ -33,19 +33,7 @@ date_format = "January 2006"
   * In house AI infrastructure building
   """
 
-[[experience]]
-  title = "Data Scientist"
-  company = "Cisco"
-  company_url = ""
-  location = "Bethlehem, PA"
-  date_start = "2017-11"
-  date_end = "2018-07"
-  description = """Develop a machine learning automation platform to help calibrate Cisco wireless products during manufacture. 
-  
-  * Use open source H2O machine learning API for model training and prediction in automation workflows 
-  * Process and analyze large amount of data with ETL tools in Hadoop and Spark ecosystem
 
-  """
    
 [[experience]]
   title = "Associate Design Engineer"
