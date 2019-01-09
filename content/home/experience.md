@@ -60,7 +60,7 @@ date_format = "January 2006"
   """
   
   [[experience]]
-  title = "Algorithm Engineer"
+  title = "Algorithm Engin"
   company = "Sina"
   company_url = ""
   location = "Beijing"
