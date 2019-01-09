@@ -38,10 +38,39 @@ date_format = "January 2006"
   company = "Cisco"
   company_url = ""
   location = "California"
-  date_start = "2017-11-30"
-  date_end = "2016-07-29"
+  date_start = "2017-11"
+  date_end = "2016-07"
   description = """
  Develop a machine learning automation platform to help calibrate Cisco wireless products during manufacture
+  """
+  
+  [[experience]]
+  title = "Machine Learning Engineer"
+  company = "QIHOO360"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2014-07"
+  date_end = "2015-06"
+  description = """
+  
+  Responsibilities include:
+ 
+* Built web user interest classification system on Hadoop to support online advertisement
+* Designed and developed mobile news recommender on Spark
+  """
+  
+  [[experience]]
+  title = "Algorithm Engineer"
+  company = "Sina"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2012-06"
+  date_end = "2014-05"
+  description = """
+* Designed and developed domain expert recommendation algorithm on Sina Microblog to support the product team
+* Designed and developed user generated content(ugc) tag classification system with label propagation semi-supervised classification. 
+* Designed and developed ugc tag topic cluster system with adaptive k-means cluster algorithm 
+
   """
 
 +++
