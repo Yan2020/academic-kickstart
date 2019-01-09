@@ -26,6 +26,7 @@ date_format = "January 2006"
   date_start = "2018-12-20"
   date_end = ""
   description = """
+  working on creating demo software development as well as some research on application of Deep Reinforcement Learning for Power System Dispatch Robot. 
   Responsibilities include: 
   
   * AI application development and deployment
@@ -33,18 +34,17 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Research Assistant"
-  company = "Lehigh University"
-  company_url = "www1.lehigh.edu/"
+  title = "Data Scientist"
+  company = "Cisco
+  company_url = ""
   location = "Bethlehem, PA"
-  date_start = "2015-01-01"
-  date_end = "2018-05-01"
-  description = """In this research position, Dr. Duan performed various duties: 
+  date_start = "2017-11"
+  date_end = "2018-07"
+  description = """Develop a machine learning automation platform to help calibrate Cisco wireless products during manufacture. 
   
-  * Developed an adaptive microgrid management systems. The secondary and primary controllers are designed in a decentralized way to realize proper load sharing and plug-and-play functions with unknown system parameters. The proposed control can guarantee that the desired generation references of tertiary control can be accurately achieved. 
-  * Reduced the overshoot of transient voltage/current up to 30% for AC/DC microgrids with inverter-interfaced DGs based on advanced control designs. Performed the switch-level real time simulation using RT-Lab. 
-  * Resolved the impact of pulsed power load in the shipboard power system by introducing and applying the Zero-Sum Game Theory. Accomplished the demonstration with both real time simulation and hardware-in-the-loop experiments. 
-  * Achieved optimal control of parallel uninterruptible power supply (UPS) system by designing a Neuro Network algorithm to train the unknown system dynamics.
+  * Use open source H2O machine learning API for model training and prediction in automation workflows 
+  * Process and analyze large amount of data with ETL tools in Hadoop and Spark ecosystem
+
   """
    
 [[experience]]
