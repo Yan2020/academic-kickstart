@@ -35,7 +35,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Data Scientist"
-  company = "Cisco
+  company = "Cisco"
   company_url = ""
   location = "Bethlehem, PA"
   date_start = "2017-11"
