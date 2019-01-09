@@ -29,13 +29,13 @@ weight = 7
   
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Python"
   description = "70%"  
   
 [[feature]]
   icon = "camera-retro"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Spark"
   description = "60%"
 
