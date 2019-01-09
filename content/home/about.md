@@ -11,25 +11,26 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Statistical Machine Learning",
+    "Distributed Computing",
+    "Big Data Analytics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Master of Science in Computer Science"
+  institution = "Maharishi University of Management"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MEng in Computer Application"
+  institution = "University of Electronic Science & Technology"
+  year = 2006
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Computer Science"
+  institution = "Zhengzhou University"
+  year = 2002
  
 +++
 
