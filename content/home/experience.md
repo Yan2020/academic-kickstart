@@ -19,18 +19,17 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoc Reseacher"
+  title = "Machine Learning Engineer"
   company = "GEIRI North America"
   company_url = "www.geirina.net"
   location = "San Jose, CA"
-  date_start = "2018-06-01"
+  date_start = "2018-12-20"
   date_end = ""
-  description = """Dr. Duan has been employed at GEIRI North America since June of 2018. In his position, he is responsible for control algorithm developments. Particularly, he is working on artificial intelligence based power grid autonomous control system using the cutting-edge deep reinforcement learning technology from DeepMind.
+  description = """
   Responsibilities include: 
   
-  * AI
-  * Control Theory
-  * Deep Reinforcement Learning
+  * AI application development and deployment
+  * In house AI infrastructure building
   """
 
 [[experience]]
