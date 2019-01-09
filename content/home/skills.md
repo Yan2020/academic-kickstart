@@ -29,7 +29,7 @@ weight = 7
   
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "70%"  
   
