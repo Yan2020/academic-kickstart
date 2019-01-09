@@ -40,9 +40,10 @@ date_format = "January 2006"
   company = "Cisco"
   company_url = ""
   location = "San Jose, CA"
-  date_start = "2016-05-01"
-  date_end = "2016-08-01"
-  description = """In this intern position, Dr. Duan performed various duties: 
+  date_start = "2017-11"
+  date_end = "2018-07"
+  description = """
+  Develop a machine learning automation platform to help calibrate Cisco wireless products during manufacture
   
   *	Collaborated in designing a hybrid PV panel deployment solution and reduced the total cost by over $9 million, with consideration of shading, power balancing and converter matching constraints.
   *	Managed and monitored timeline of the programï¼ generated daily status report and presented to the leadership. 
